@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DBEBB70-A5C3-4B8C-AB4C-FFD6AB5C0472}|IDServer\\IDServer.csproj|d:\\software house code\\identityserver4aspcore\\identityserver4aspcore\\idserver\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DBEBB70-A5C3-4B8C-AB4C-FFD6AB5C0472}|IDServer\\IDServer.csproj|solutionrelative:idserver\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC61895B-405D-4805-8CE6-F3A995A8BFCA}|Student\\Student.csproj|d:\\software house code\\identityserver4aspcore\\identityserver4aspcore\\student\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC61895B-405D-4805-8CE6-F3A995A8BFCA}|Student\\Student.csproj|solutionrelative:student\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7505E0-7794-4512-8B67-0403BD413F04}|Client\\Client.csproj|d:\\software house code\\identityserver4aspcore\\identityserver4aspcore\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7505E0-7794-4512-8B67-0403BD413F04}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7505E0-7794-4512-8B67-0403BD413F04}|Client\\Client.csproj|d:\\software house code\\identityserver4aspcore\\identityserver4aspcore\\client\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7505E0-7794-4512-8B67-0403BD413F04}|Client\\Client.csproj|solutionrelative:client\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\IDServer\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "IDServer\\IdentityConfiguration.cs",
+              "ToolTip": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\IDServer\\IdentityConfiguration.cs",
+              "RelativeToolTip": "IDServer\\IdentityConfiguration.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:46:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Student\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Student\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Student\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Student\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:46:49.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:46:14.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Client\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Client\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Client\\Services\\TokenService.cs",
+              "RelativeToolTip": "Client\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:46:15.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

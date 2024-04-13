@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dhh/jEFQeVBNgwYGGPHd7oKVzKnSX3LoJs05NkoYl970KMiKMYiQeNb8uA0i8xTYSZ6Ec7nK551bbH5dUiUxZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Software House Code\\IdentityServer4AspCore\\IdentityServer4AspCore\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khaqa\\.nuget\\packages\\identitymodel\\6.0.0\\identitymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\khaqa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
